@@ -4,7 +4,7 @@
 
 ```js
 const jose = {
-  pronouns: "he" | "she"
+  pronouns: "he" | "him"
 
 }
 ```
