@@ -1,27 +1,15 @@
-### Hi, Im Jose 👋 👨‍ 💻
+### Hi, Im Jose 👋 👨‍ 💻 🎮
 
-## About me in code
+# About me in code
 
 ```js
 const jose = {
   pronouns: "he" | "him",
-  code: [Html, Css, JavaScript],
-  tools:[Vue]
+  code: [Html, Css, JavaScript]
 }
 ```
-
-
-<!--
-**josefernando1986/josefernando1986** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌱 I’m currently learning JavaScript, Vue and English.
+- 👯 I’m looking to collaborate on whatever just for learn.
+- 🤔 I’m looking for help with JavaScript.
+- 📫 How to reach me: [twitter](https://twitter.com/gallegocardona2)
+- ⚡ Fun fact: I'm 34 years old learning JavaScript, I started a little late to learn.
