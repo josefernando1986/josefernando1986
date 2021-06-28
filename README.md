@@ -1,6 +1,6 @@
-### Hi, Im Jose 👋 👨‍ 💻 🎮
+# Hi, Im Jose 👋 👨‍ 💻 🎮
 
-# About me in code
+### About me in code
 
 ```js
 const jose = {
