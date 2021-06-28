@@ -4,8 +4,9 @@
 
 ```js
 const jose = {
-  pronouns: "he" | "him"
-
+  pronouns: "he" | "him",
+  code: [Html, Css, JavaScript],
+  tools:[Vue]
 }
 ```
 
