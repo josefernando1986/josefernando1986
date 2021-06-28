@@ -1,5 +1,13 @@
-### Hi there: Im Jose 👋
+### Hi, Im Jose 👋 👨‍ 💻
 
+## About me in code
+
+```js
+const jose = {
+  pronouns: "he" | "she"
+
+}
+```
 
 
 <!--
