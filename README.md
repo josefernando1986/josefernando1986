@@ -5,7 +5,7 @@
 ```js
 const jose = {
   pronouns: "he" | "him",
-  code: [Html, Css, JavaScript]
+  code: [Html, Css, JavaScript, Apex]
 }
 ```
 - 🌱 I’m currently learning JavaScript, Vue and English.
